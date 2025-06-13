@@ -44,7 +44,7 @@ DateCock은 연령대, 지역, 데이트 유형을 기반으로
 [![시연 영상 보기](https://github.com/user-attachments/assets/9ea93b32-61f9-4d68-b613-1f39a147d33e)](https://drive.google.com/file/d/1q8t6X3UdNsFdWciBhmv8sGW_iLD7Po-r/view?usp=sharing)
 
 <p align="center">↑ 이미지를 클릭하면 Google Drive에서 영상이 실행됩니다.</p>
-<p> align ="center"> 더 자세한 정보는 아래 PPT 자료를 확인해 주세요.</p>
+<p align ="center"> 더 자세한 정보는 아래 PPT 자료를 확인해 주세요.</p>
 
 ---
 
