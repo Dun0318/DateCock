@@ -94,7 +94,7 @@ html, body {
   color: #333;
 }
 
-/* 🔁 새로운 카드 슬라이드 무한 루프 */
+/*  새로운 카드 슬라이드 무한 루프 */
 .loop-container {
   overflow: hidden;
   width: 100%;
