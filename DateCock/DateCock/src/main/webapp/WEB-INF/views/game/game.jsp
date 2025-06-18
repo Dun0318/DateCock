@@ -15,7 +15,7 @@
   </style>
 </head>
 <body>
-<!-- 🎮 게임 스타트 버튼 -->
+<!--  게임 스타트 버튼 -->
   <div style="text-align:center; margin-top:30px;">
     <button id="startButton" style="padding: 12px 24px; font-size: 18px; background-color: #ffb6c1; border: none; border-radius: 10px; cursor: pointer;">
       게임 시작
@@ -99,7 +99,7 @@
   let loaded = 0;
 let heartInterval = null;
 
-// ✅ 이미지 로딩만 체크, 실행은 버튼에서
+//  이미지 로딩만 체크, 실행은 버튼에서
 [ playerImg, heartImg ].forEach(img => {
   img.onload = () => {
     loaded++;
@@ -109,7 +109,7 @@ let heartInterval = null;
   };
 });
 
-// ✅ 게임 시작 버튼 클릭 시 실행
+//  게임 시작 버튼 클릭 시 실행
 document.getElementById("startButton").addEventListener("click", function () {
   if (loaded !== 2) return;
 
